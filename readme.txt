@@ -23,5 +23,3 @@ Requisitos de Sistema:
 Ter instalada a seguinte versão do java: openjdk 17.0.6
 Versão do Ubuntu 20.04 LTS ou semelhante 
 311,2 kB de espaço livre em disco.
-
->Tem alguns erros nos métodos de pesquisa (principalmente DFS)
